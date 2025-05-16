@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Shared/VSCode/git/MSCS632_Assignment_1/Manual_Memory_Management'
+relocations:     []
+...
